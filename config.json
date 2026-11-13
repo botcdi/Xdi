@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "~ᥫ᭡ 𝐎ᴍᴇɢ𝐀 💜",
+  "nickNameBot": "~ᥫ᭡ ᴍunnir xamai 💜",
   "prefix": "-",
   "enableTypingIndicator": true,
   "notesTypingIndicator": "true = show 'is typing...' for the humanizer delay before replying | false = reply instantly, no typing shown",
@@ -36,7 +36,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61561645647195",
+    "61596442316778",
     " ",
     " "
   ],
@@ -45,7 +45,7 @@
     "onlyAdmin": true,
     "emojis": [
       "😡",
-      "😠",
+      "🖕",
       "❌",
       "🤬"
     ],
@@ -55,7 +55,7 @@
     "enable": false,
     "whiteListIds": [
       "",
-      ""
+      "61596442316778"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
