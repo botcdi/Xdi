@@ -18,20 +18,14 @@ module.exports = {
   onStart: async function ({ api, event }) {
     const ownerText = 
 `╭─ 👑 Oᴡɴᴇʀ Iɴғᴏ 👑 ─╮
-│ 👤 Nᴀᴍᴇ       : NɪʀZᴏɴ Isʟᴀᴍ
-│ 🧸 Nɪᴄᴋ       : Nɪʀᴏᴏ
-│ 🎂 Aɢᴇ        : 22+
-│ 💼 Pʀᴏғᴇssɪᴏɴ : Jᴏʙ & Sɪɴɢɪɴɢ
-│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : PɪɴɢɴA, Sᴀʀɪsʜᴀʙᴀʀɪ
-│.......................
-│ 👑 Nᴀᴍᴇ       : RɪʏA Isʟᴀᴍ
-│ 🧸 Nɪᴄᴋ       : Nɪᴢᴜ
-│ 🎂 Aɢᴇ        : 17+
-│ 💼 Pʀᴏғᴇssɪᴏɴ : Sɪɴɢɪɴɢ 
-│ 🏡 Lᴏᴄᴀᴛɪᴏɴ   : PɪɴɢɴA, Sᴀʀɪsʜᴀʙᴀʀɪ 
+│ 👤 Nᴀᴍᴇ       : AriyAn Isʟᴀᴍ
+│ 🧸 Nɪᴄᴋ       : Aruu
+│ 🎂 Aɢᴇ        : 21+
+│ 💼 Pʀᴏғᴇssɪᴏɴ : Jᴏʙ
+│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : 
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
-│ 📘 facebook : https://www.facebook.com/61561645647195
-│ 💬 Messanger: https://m.me/61561645647195 
+│ 📘 facebook : https://www.facebook.com/aruuhbbz
+│ 💬 Messanger: https://m.me/aruuhbbz
 ╰────────────────╯`;
 
     const cacheDir = path.join(__dirname, "cache");
@@ -39,7 +33,7 @@ module.exports = {
 
     if (!fs.existsSync(cacheDir)) fs.mkdirSync(cacheDir);
 
-    const imgLink = "https://i.imgur.com/awrrOff.jpeg";
+    const imgLink = "https://i.imgur.com/dsdtiLt.jpeg";
 
     const send = () => {
       api.sendMessage(
