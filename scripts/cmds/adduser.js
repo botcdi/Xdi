@@ -211,7 +211,7 @@ module.exports = {
 				await sleep(500);
 			}
 			catch (err) {
-				console.error(`[NirZon Adduser] Failed to add ${uid}:`, err);
+				console.error(`[AriyAN Adduser] Failed to add ${uid}:`, err);
 
 				const errorText = String(err.message || err);
 
@@ -235,7 +235,7 @@ module.exports = {
 				await threadsData.refreshInfo(threadID, updatedInfo);
 		}
 		catch (err) {
-			console.error("[NirZon Adduser] Final refresh error:", err);
+			console.error("[AriyAn Adduser] Final refresh error:", err);
 		}
 
 		const totalSuccess = success[0].uids.length;
