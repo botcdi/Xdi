@@ -152,10 +152,10 @@ module.exports = {
 ┃ ✦ 🔒 = Admin Only
 ┃ ✦ 🌐 = Everyone
 ┃ ✦ Use: ${prefix}help [command]
-┃ ✦ Owner: 𝗡𝗜𝗥𝗭𝗢𝗡
+┃ ✦ Owner: ARIYA'N 
 ╰━━━━━━━━━━━━━━━━━━━━━━╯
 
-✦ ━━━━━ 𝗡𝗜𝗥𝗭𝗢𝗡 𝗕𝗢𝗧 ━━━━━ ✦`;
+✦ ━━━━━ ARIYA'N 𝗕𝗢𝗧 ━━━━━ ✦`;
 
     // Random GIF
     const gifURLs = [
